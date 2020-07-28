@@ -1,0 +1,11 @@
+.idea
+.temp
+.vscode
+archive
+vendor
+dist
+/demo/**
+_data
+site/README.md
+src/components/demo-lib.less
+src/components-src/tibco-cloud-ui-pattern.less

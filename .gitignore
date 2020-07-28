@@ -1,0 +1,8 @@
+.temp/
+.idea/*
+.idea/
+dist/
+node_modules/
+site/_data/
+**/.DS_Store
+src/**/demo-lib.less

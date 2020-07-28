@@ -1,0 +1,5 @@
+REVIEWBOARD_URL = "https://scr.tibco.com/ux"
+REPOSITORY = "git-ux-uxpl"
+REPOSITORY_TYPE = "git"
+BRANCH = "master"
+LAND_DEST_BRANCH= "master"
